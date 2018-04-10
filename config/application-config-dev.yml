@@ -9,11 +9,7 @@ kafka:
 
 #mongodb配置
 spring:
-  data:
-      mongodb:
-            database: test
-                  host: localhost
-                        port: 27017
+  application.name: billing
 
 #仅输出ERROR日志
 logging:
