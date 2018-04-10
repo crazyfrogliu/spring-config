@@ -1,5 +1,0 @@
-spring:
-  data:
-    redis:
-      host: 10.10.9.156
-      port: 1398
