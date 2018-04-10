@@ -1,2 +1,3 @@
 zeus:
   name: commons datasource configs for develop
+  password: 123456
